@@ -34,3 +34,16 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
  <div>
  ☑️ 03.05 — Project - Lessons Learned — Grade: Aprooved
  </br>
+
+<h2> Unit 04: Introduction to JavaScript </h2>
+<br>
+ ☑️ 04.01 — JavaScript - First steps
+<div>
+ ☑️ 04.02 — JavaScript - Array and For loop
+<div>
+ ☑️ 04.03 — JavaScript - Programming Logic and Algorithms
+<div>
+ ☑️ 04.04 — JavaScript - Objects and Functions
+<div>
+ ☑️ 04.05 — Project - Playground Functions — Grade: 100%
+<br>
