@@ -94,5 +94,5 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
 ☑️ 07.03 — First steps with Jest
 <div>
-☑️ 07.04 — Project - JavaScript ES6 Unit Tests — Grade: 100%
+☑️ 07.04 — Project - JavaScript ES6 Unit Tests — Grade: Aprooved%
 </br>
