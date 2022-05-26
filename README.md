@@ -85,3 +85,14 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <br>
 ☑️ 06.06 — Project - Trybewarts — Grade: Aprooved
 </br>
+
+<h2> Unit 07: Introduction to JavaScript ES6 and Unit Tests </h2>
+<br>
+☑️ 07.01 — JavaScript ES6 - let, const, arrow functions, and template literals
+<div>
+☑️ 07.02 — JavaScript ES6 - Exception flow and Objetcs
+<div>
+☑️ 07.03 — First steps with Jest
+<div>
+☑️ 07.04 — Project - JavaScript ES6 Unit Tests — Grade: 100%
+</br>
