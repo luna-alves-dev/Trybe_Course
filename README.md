@@ -60,7 +60,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
 ☑️ 05.05 — Project - Pixels Art — Grade: Aprooved
 <div>
-☑️ 05.06 — Project - To-do List — Grade
+☑️ 05.06 — (Bonus) Project - To-do List
 <div>
 ☑️ 05.07 — (Bonus) Project - Meme Generator
 <div>
