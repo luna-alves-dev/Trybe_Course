@@ -46,7 +46,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
  ☑️ 04.04 — JavaScript - Objects and Functions
 <div>
  ☑️ 04.05 — Project - Playground Functions — Grade: Aprooved
-<br>
+</br>
 
 <h2> Unit 05: JavaScript - DOM, Events and Web Storage </h2>
 <br>
@@ -67,3 +67,21 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 ☑️ 05.07 — (Bonus) Project - Color Guess
 <div>
 ☑️ 05.07 — (Bonus) Project - Mystery Letter
+</br>
+
+<h2> Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness </h2>
+<br>
+☑️ 06.01 — HTML & CSS - Forms
+<br>
+☑️ 06.02 — JavaScript Libraries and CSS Frameworks
+<br>
+☑️ 06.03 — Introduction - Flexbox CSS
+<br>
+☑️ 06.03 — Flexbox CSS - Part 1
+<br>
+☑️ 06.04 — Flexbox CSS - Part 2
+<br>
+☑️ 06.05 — CSS Responsive - Mobile First
+<br>
+☑️ 06.06 — Project - Trybewarts — Grade: Aprooved
+</br>
