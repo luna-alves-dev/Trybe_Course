@@ -45,5 +45,25 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
  ☑️ 04.04 — JavaScript - Objects and Functions
 <div>
- ☑️ 04.05 — Project - Playground Functions — Grade: 100%
+ ☑️ 04.05 — Project - Playground Functions — Grade: Aprooved
 <br>
+
+<h2> Unit 05: JavaScript - DOM, Events and Web Storage </h2>
+<br>
+☑️ 05.01 — JavaScript - DOM and selectors
+<div>
+☑️ 05.02 — JavaScript - Working with elements
+<div>
+☑️ 05.03 — JavaScript - Events
+<div>
+☑️ 05.04 — JavaScript - Web Storage
+<div>
+☑️ 05.05 — Project - Pixels Art — Grade: Aprooved
+<div>
+☑️ 05.06 — Project - To-do List — Grade
+<div>
+☑️ 05.07 — (Bonus) Project - Meme Generator
+<div>
+☑️ 05.07 — (Bonus) Project - Color Guess
+<div>
+☑️ 05.07 — (Bonus) Project - Mystery Letter
