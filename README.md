@@ -96,3 +96,18 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
 ☑️ 07.04 — Project - JavaScript ES6 Unit Tests — Grade: Aprooved%
 </br>
+
+<h2> Unit 08: JavaScript ES6 Higher-Order Functions </h2>
+<br>
+☑️  08.01 — JavaScript ES6 - Introduction to Higher-Order Functions
+<div>
+☑️  08.02 — JavaScript ES6 - Higher-Order Functions - forEach, find, some, every, sort
+<div>
+☑️  08.03 — JavaScript ES6 - Higher-Order Functions - map e filter
+<div>
+☑️  08.04 — JavaScript ES6 - Higher-Order Functions - reduce
+<div>
+☑️  08.05 — JavaScript ES6 - spread operator, rest parameter, destructuring and more
+<div>
+☑️  08.06 — Projeto - Zoo functions — Grade: Aprooved
+</br>
