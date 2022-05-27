@@ -87,7 +87,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 </br>
  
 https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141-bc6d-0e7c41bf4e67.mp4
-
+ 
 <h2> Unit 07: Introduction to JavaScript ES6 and Unit Tests </h2>
 <br>
 ☑️ 07.01 - JavaScript ES6 - let, const, arrow functions, and template literals
