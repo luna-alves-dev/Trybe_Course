@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️ 07.03 - First steps with Jest
 <div>
-☑️ 07.04 - Project - JavaScript ES6 Unit Tests — Grade: 🥇
+☑️ 07.04 - Project - JavaScript ES6 Unit Tests - Grade: 🥇
 </br>
 
 <h2> Unit 08: JavaScript ES6 Higher-Order Functions </h2>
