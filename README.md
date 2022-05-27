@@ -85,7 +85,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <br>
 ☑️ 06.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/TrybeWartsProject>Project - Trybewarts</a> — Grade: Aprooved
 </br>
- ![caption](link to image / GIF)
+ ![caption](trybewarts-project.mp4)
 
 <h2> Unit 07: Introduction to JavaScript ES6 and Unit Tests </h2>
 <br>
