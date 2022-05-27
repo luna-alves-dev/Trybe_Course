@@ -32,7 +32,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
  <div>
  ☑️ 03.04 - Semantic HTML
  <div>
- ☑️ 03.05 - Project - Lessons Learned — Grade: Aprooved
+ ☑️ 03.05 - Project - Lessons Learned — Grade: 🥇
  </br>
 
 <h2> Unit 04: Introduction to JavaScript </h2>
@@ -45,7 +45,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
  ☑️ 04.04 - JavaScript - Objects and Functions
 <div>
- ☑️ 04.05 - Project - Playground Functions — Grade: Aprooved
+ ☑️ 04.05 - Project - Playground Functions — Grade: 🥇
 </br>
 
 <h2> Unit 05: JavaScript - DOM, Events and Web Storage </h2>
@@ -58,7 +58,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
 ☑️ 05.04 - JavaScript - Web Storage
 <div>
-☑️ 05.05 - Project - Pixels Art — Grade: Aprooved
+☑️ 05.05 - Project - Pixels Art — Grade: 🥇
 <div>
 ☑️ 05.06 - (Bonus) Project - To-do List
 <div>
@@ -83,7 +83,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <br>
 ☑️ 06.05 - CSS Responsive - Mobile First
 <br>
-☑️ 06.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/TrybeWartsProject>Project - Trybewarts</a> — Grade: Aprooved
+☑️ 06.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/TrybeWartsProject>Project - Trybewarts</a> — Grade: 🥇
 </br>
  
 https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141-bc6d-0e7c41bf4e67.mp4
@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️ 07.03 - First steps with Jest
 <div>
-☑️ 07.04 - Project - JavaScript ES6 Unit Tests — Grade: Aprooved
+☑️ 07.04 - Project - JavaScript ES6 Unit Tests — Grade: 🥇
 </br>
 
 <h2> Unit 08: JavaScript ES6 Higher-Order Functions </h2>
@@ -111,5 +111,5 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️  08.05 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 <div>
-☑️  08.06 - Projeto - Zoo functions — Grade: Aprooved
+☑️  08.06 - Projeto - Zoo functions - Grade: 🥇
 </br>
