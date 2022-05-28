@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(247, 249, 247);
+  }
+    
+  button {
+    border: none;
+    color: black;
+    border-radius: 30px;
+    padding: 6px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    
+  }
+  #remover-selecionado , #apaga-tudo {
+    background-color: rgb(241, 37, 22);
+    color: white;
+  }
+
+  #mover-cima , #mover-baixo {
+    background-color: rgb(242, 231, 14);
+    color: black;
+  }
+
+  #criar-tarefa , #remover-finalizados {
+    background-color: rgb(34, 0, 186);
+    color: white;
+  }
+
+  #salvar-tarefas {
+     background-color: rgb(18, 123, 21);
+     color: white;
+      }
+      
