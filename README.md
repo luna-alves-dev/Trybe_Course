@@ -32,7 +32,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
  <div>
  ☑️ 03.04 - Semantic HTML
  <div>
- ☑️ 03.05 - Project - Lessons Learned - Grade: 🥇
+ ☑️ 03.05 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/LessonsLearnedProject>Project - Lessons Learned</a> - Grade: 🥇
  </br>
 
 <h2> Unit 04: Introduction to JavaScript </h2>
