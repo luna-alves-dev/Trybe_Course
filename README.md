@@ -45,7 +45,7 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <div>
  ☑️ 04.04 - JavaScript - Objects and Functions
 <div>
- ☑️ 04.05 - Project - Playground Functions - Grade: 🥇
+ ☑️ 04.05 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/PlaygroundFuncionsProject>Project - Playground Functions</a> - Grade: 🥇
 </br>
 
 <h2> Unit 05: JavaScript - DOM, Events and Web Storage </h2>
