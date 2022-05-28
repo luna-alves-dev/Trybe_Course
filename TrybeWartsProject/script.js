@@ -78,3 +78,5 @@ inputCheckInformations.addEventListener('click', () => {
   <p> Avaliação: ${notaEscolhida}</p>
   <p> Observações: ${obervacoes.value}`;
 });
+
+form.addEventListener('click', satisfaction);
