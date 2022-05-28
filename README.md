@@ -62,9 +62,9 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
 <br>
  
 https://user-images.githubusercontent.com/102385238/170841216-d8c7c9f7-f862-472c-a3f8-51f842de900c.mov
-
-☑️ 05.06 - (Bonus) Project - To-do List
 <div>
+☑️ 05.06 - (Bonus) Project - To-do List
+<div
 ☑️ 05.07 - (Bonus) Project - Meme Generator
 <div>
 ☑️ 05.07 - (Bonus) Project - Color Guess
