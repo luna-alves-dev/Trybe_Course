@@ -114,5 +114,5 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️  08.05 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 <div>
-☑️  08.06 - Projeto - Zoo functions - Grade: 🥇
+☑️  08.06 - Project - Zoo functions - Grade: 🥇
 </br>
