@@ -65,15 +65,12 @@ https://user-images.githubusercontent.com/102385238/170846796-0d9ec032-cea0-4898
  
 https://user-images.githubusercontent.com/102385238/170841216-d8c7c9f7-f862-472c-a3f8-51f842de900c.mov
 <div>
-☑️ 05.06 - (Bonus) Project - To-do List
-<div
-☑️ 05.07 - (Bonus) Project - Meme Generator
-<div>
-☑️ 05.07 - (Bonus) Project - Color Guess
-<div>
-☑️ 05.07 - (Bonus) Project - Mystery Letter
-</br>
+☑️ 05.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/PlaygroundFuncionsProject> Project - To-do List (Bonus)
+ <br>
 
+https://user-images.githubusercontent.com/102385238/170896267-ee0c6cea-137a-4c21-9a36-edb0328fcc42.mp4
+<div>
+ 
 <h2> Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness </h2>
 <br>
 ☑️ 06.01 - HTML & CSS - Forms
