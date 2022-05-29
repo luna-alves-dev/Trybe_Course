@@ -35,6 +35,8 @@ There are more than 1500 hours of study that covers the fundamentals of web deve
  ☑️ 03.05 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/LessonsLearnedProject>Project - Lessons Learned</a> - Grade: 🥇
  </br>
 
+https://user-images.githubusercontent.com/102385238/170846457-ba42811b-0c38-4c94-8a6f-7333e9f9ac53.mp4
+
 <h2> Unit 04: Introduction to JavaScript </h2>
 <br>
  ☑️ 04.01 - JavaScript - First steps
