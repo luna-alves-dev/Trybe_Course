@@ -1,38 +1,47 @@
 <!DOCTYPE html>
-<html lang="pt-Br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap" rel="stylesheet"/>
-    <link rel="stylesheet" href="style.css"/>
-    <title>Minha Lista de Tarefas</title>
-</head>
-<body>
-    <header>
-        <h>Minha Lista de Tarefas</h>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dancing+Script&family=Spline+Sans+Mono:wght@300&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+
+    <title>To-do List</title>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Minha Lista de Tarefas</h1>
         <p id="funcionamento">
-         Clique duas vezes em um item para marcá-lo como completo
-        </p> 
+          Clique duas vezes em uma tarefa adicionada para marcá-la como completa.
+        </p>
 
         <input
-        type = "text" id = "texto-tarefa" placeholder="digite sua tarefa aqui"
+          type="text"
+          id="texto-tarefa"
+          placeholder="Adicione a nova tarefa"
         />
-        <button id="criar-tarefa" class="criar tarefa">Adicionar</button>
-    </header>
-    <section>
+        <button id="cria-tarefa" class="criar-tarefa">Criar Tarefa</button>
+      </header>
+      <section>
         <div id="tarefas">
-            <ol id="lista-tarefas"></ol>
+          <ol id="lista-tarefas"></ol>
         </div>
-        <button id="remover-selecionado"> Remove Selecionado</button>
-        <button id="mover-cima">Subir</button>
-        <button id="mover-baixo">Descer</button>
-        <button id="apaga-tudo">Remover Tudo</button>
-        <button id="remover-finalizados">Remover completos</button>
-        <button id="salvar-tarefas">Salvar Tudo</button>
-    </section>
-    <script src="script.js"></script>
-</body>
+        <button id="mover-para-cima" title="Move tarefa para cima">&#11014</button>
+        <button id="mover-para-baixo" title="Move tarefa para baixo">&#11015</button>
+        <button id="remove-selecionado" title="Deleta tarefa selecionada">&#10008 Selecionada</button>
+        <button id="remove-finalizado" title="Deleta tarefas finalizadas">&#10008 Finalizadas</button>
+        <button id="apaga-tudo" title="Deleta todas as tarefas">&#10008 Todas</button>
+        <button id="salva-tarefas" title="Salva todas as tarefas">&#128190 Salvar</button>
+      </section>
+    </main>
+  </body>
+  <script src="./script.js"></script>
 </html>
