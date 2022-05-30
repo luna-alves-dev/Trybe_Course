@@ -65,10 +65,15 @@ https://user-images.githubusercontent.com/102385238/170846796-0d9ec032-cea0-4898
  
 https://user-images.githubusercontent.com/102385238/170841216-d8c7c9f7-f862-472c-a3f8-51f842de900c.mov
 <div>
-☑️ 05.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/PlaygroundFuncionsProject> Project - To-do List (Bonus)
+☑️ 05.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/PlaygroundFuncionsProject> Project - To-do List (Bonus)</a>
  <br>
 
-https://user-images.githubusercontent.com/102385238/170896267-ee0c6cea-137a-4c21-9a36-edb0328fcc42.mp4
+
+
+https://user-images.githubusercontent.com/102385238/170897096-4b9bee52-04f0-4f1e-a0cc-2c5a29929e4f.mp4
+
+
+
 <div>
  
 <h2> Unit 06: HTML & CSS: Forms, Flexbox, and Responsiveness </h2>
