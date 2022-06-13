@@ -114,9 +114,108 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️  08.03 - JavaScript ES6 - Higher-Order Functions - map e filter
 <div>
+ 
 ☑️  08.04 - JavaScript ES6 - Higher-Order Functions - reduce
 <div>
 ☑️  08.05 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 <div>
 ☑️  08.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/Zoo-Functions-Project>Project - Zoo functions - Grade: 🥇
 </br>
+
+ # Front-end Development 
+
+ <h2> Unit 09: JavaScript and Asynchronous Tests</h2>
+ <br> 
+ ☑️ 09.01 - Introduction to Front-end development - Part 1
+ <div>
+ ☑️ 09.01 - Asynchronous JavaScript and Callbacks - Part 2
+ <div>
+ ☑️ 09.02 - Asynchronous JavaScript - Fetch API, and async/await
+ <div>
+ ☑️ 09.03 - Jest - Asynchronous Tests
+ <div>
+ ☑️ 09.04 - Project - Shopping Cart - Grade: 🥇
+ </br>
+   
+ <h2> Unit 10: Introduction to React</h2>
+ <br> 
+ ☑️ 10.01 - Introdução - React
+ <div>
+ ☑️ 10.01 - 'Hello, world!' no React!
+ <div>
+  10.02 - Componentes React
+ <div>
+  10.03 - Projeto - Sistema Solar - Grade: 
+ </br>
+  
+ <h2> Unit 11: Components with State, Events, and Forms with React</h2>
+ <br> 
+  11.01 - Components with state and events
+ <div>
+  11.02 - Forms with React
+ <div>
+  11.03  - Project - Tryunfo - Grade:
+ </br>
+  
+ <h2> Unit 12: Components Lifecycle and React Router</h2>
+ <br> 
+  12.01 - Components Lifecycle
+ <div>
+   12.02 - React Router
+ <div>
+  12.03 - Project - TrybeTunes - Grade:
+ </br>
+  
+ <h2> Unit 13: Agile Methodologies</h2>
+ <br> 
+ 13.01 - Agile Methodologies
+ <div>
+ 13.02 - Project - Front-end Online Store - Grade:
+ </br>
+ 
+ <h2> Unit 14: Automated testing with React Testing Library</h2>
+ <br> 
+ 14.01 - RTL - First Steps
+ <div>
+ 14.02 - RTL - Mocks and Inputs
+ <div>
+ 14.03 - RTL - Testing React Router
+ <div>
+  14.04 - Project - Tests with React - Grade: 
+ </br>
+  
+ <h2> Unit 15: State management with Redux</h2>
+ <br> 
+ 15.01 - Introduction to Redux - the global application state
+ <div>
+ 15.02 - Using Redux with React
+ <div>
+ 15.03 - Using Redux with React - Practice14.03 - RTL - Testing React Router
+ <div>
+ 15.04 - Using Redux with React - Asynchronous Actions
+ <div>
+ 15.05 - Tests with React-Redux
+ <div>
+ 15.06 -  15.06 — Project - Trybe Wallet - Grade:
+ </br>
+   
+ <h2> Unit 16: Project - Trivia Game</h2>
+ <br>
+ 16.01 - Project - Trivia Game - Grade:
+ </br>
+
+ <h2> Unit 17: Context API and React Hooks</h2>
+ <br>  
+ 17.01 - React Context API
+ <div>
+ 17.02 - React Hooks - useState and useContext
+ <div>
+ 17.03 - React Hooks - useEffect and custom Hooks
+ <div>
+ 17.04 - Project - StarWars Datatable with Context API and Hooks - Grade:
+ </br>
+ 
+ <h2> Unit 18: Project - Recipes App</h2>
+ <br>
+  18.01 - Project - Recipes App - Grade:
+ </br>
