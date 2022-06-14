@@ -196,7 +196,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
  <div>
  15.05 - Tests with React-Redux
  <div>
- 15.06 -  15.06 — Project - Trybe Wallet - Grade:
+ 15.06 - Project - Trybe Wallet - Grade:
  </br>
    
  <h2> Unit 16: Project - Trivia Game</h2>
