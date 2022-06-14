@@ -114,17 +114,16 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
 <div>
 ☑️  08.03 - JavaScript ES6 - Higher-Order Functions - map e filter
 <div>
- 
 ☑️  08.04 - JavaScript ES6 - Higher-Order Functions - reduce
 <div>
 ☑️  08.05 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 <div>
-☑️  08.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/Zoo-Functions-Project>Project - Zoo functions - Grade: 🥇
+☑️  08.06 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/Zoo-Functions-Project>Project - Zoo functions</a> - Grade: 🥇
 </br>
 
- # Front-end Development 
-
- <h2> Unit 09: JavaScript and Asynchronous Tests</h2>
+ # Front-end Development
+ 
+ <h2> Unit 09: JavaScript and Asynchronous Tests </h2>
  <br> 
  ☑️ 09.01 - Introduction to Front-end development - Part 1
  <div>
@@ -137,7 +136,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
  ☑️ 09.04 - Project - Shopping Cart - Grade: 🥇
  </br>
    
- <h2> Unit 10: Introduction to React</h2>
+ <h2> Unit 10: Introduction to React </h2>
  <br> 
  ☑️ 10.01 - Introdução - React
  <div>
@@ -148,7 +147,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
   10.03 - Projeto - Sistema Solar - Grade: 
  </br>
   
- <h2> Unit 11: Components with State, Events, and Forms with React</h2>
+ <h2> Unit 11: Components with State, Events, and Forms with React </h2>
  <br> 
   11.01 - Components with state and events
  <div>
@@ -166,14 +165,14 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
   12.03 - Project - TrybeTunes - Grade:
  </br>
   
- <h2> Unit 13: Agile Methodologies</h2>
+ <h2> Unit 13: Agile Methodologies </h2>
  <br> 
  13.01 - Agile Methodologies
  <div>
  13.02 - Project - Front-end Online Store - Grade:
  </br>
  
- <h2> Unit 14: Automated testing with React Testing Library</h2>
+ <h2> Unit 14: Automated testing with React Testing Library </h2>
  <br> 
  14.01 - RTL - First Steps
  <div>
@@ -184,7 +183,7 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
   14.04 - Project - Tests with React - Grade: 
  </br>
   
- <h2> Unit 15: State management with Redux</h2>
+ <h2> Unit 15: State management with Redux </h2>
  <br> 
  15.01 - Introduction to Redux - the global application state
  <div>
@@ -199,12 +198,12 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
  15.06 - Project - Trybe Wallet - Grade:
  </br>
    
- <h2> Unit 16: Project - Trivia Game</h2>
+ <h2> Unit 16: Project - Trivia Game </h2>
  <br>
  16.01 - Project - Trivia Game - Grade:
  </br>
 
- <h2> Unit 17: Context API and React Hooks</h2>
+ <h2> Unit 17: Context API and React Hooks </h2>
  <br>  
  17.01 - React Context API
  <div>
