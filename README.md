@@ -133,9 +133,11 @@ https://user-images.githubusercontent.com/102385238/170614071-5696d991-9347-4141
  <div>
  ☑️ 09.03 - Jest - Asynchronous Tests
  <div>
- ☑️ 09.04 - Project - Shopping Cart - Grade: 🥇
+ ☑️ 09.04 - <a href= https://github.com/luna-alves-dev/Trybe_Course/tree/main/ShoppingCartProject>Project - Shopping Cart</a> - Grade: 🥇
  </br>
-   
+
+https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301-a9f3-adfbc17c75b2.mp4
+
  <h2> Unit 10: Introduction to React </h2>
  <br> 
  ☑️ 10.01 - Introdução - React
