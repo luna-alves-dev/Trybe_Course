@@ -146,7 +146,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
   10.02 - Componentes React
  <div>
-  10.03 - Projeto - Sistema Solar - Grade: 
+  10.03 - Project - Sistema Solar - Grade:
  </br>
   
  <h2> Unit 11: Components with State, Events, and Forms with React </h2>
