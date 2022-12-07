@@ -339,7 +339,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 27.02 - Inheritance and Interfaces
  <div>
- 27.03 - Polymorfism
+ ☑️ 27.03 - Polymorfism
  <div>
  ☑️ 27.04 - SOLID - Introduction
  <div>
