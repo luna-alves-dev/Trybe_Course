@@ -1,6 +1,6 @@
 ## Habilidades
 
-Neste projeto, vdesenvolvemos as seguintes habilidades:
+Neste projeto, desenvolvemos as seguintes habilidades:
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
