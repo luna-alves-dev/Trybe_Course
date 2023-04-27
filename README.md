@@ -367,7 +367,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 29.05 - Complex Updates - Arrays
  <div>
- ☑️29.30 - Project - Commerce - Grade: 
+ ☑️29.30 - Project - Commerce - Grade: 🥇
  </br>
   
  <h2> Unit 30: MongoDB with Node.js and OOP </h2>
@@ -376,7 +376,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 30.02 - MongoDB and OOP
  <div>
- ☑️ 30.03 - Project - Car Shop - Grade:
+ ☑️ 30.03 - Project - Car Shop - Grade: 🥇
  </br>
  
  <h2> Unit 31: Project - Delivery App </h2>
@@ -403,7 +403,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 33.03 - Tests
  <div>
- ☑️ 33.04 - Project - Job Insights - Grade:
+ ☑️ 33.04 - Project - Job Insights - Grade: 🥇
  </br>
   
  <h2> Unit 34: Design Patterns </h2>
@@ -414,7 +414,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 34.03 - Patterns - Decorator, Observer, Factory
  <div>
- ☑️ 34.04 - Project - Inventory Reports - Grade:
+ ☑️ 34.04 - Project - Inventory Reports - Grade: 🥇
  </br>
  
  <h2> Unit 35: Networks and Data Scraping </h2>
@@ -423,7 +423,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 35.02 - Data Scraping
  <div>
- ☑️ 35.03 - Project - Tech news
+ ☑️ 35.03 - Project - Tech news - Grade: 🥇
  </br>
   
  <h2> Unit 36: Algorithms </h2>
@@ -434,7 +434,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 36.03 - Sorting and search Algorithms
  <div>
- ☑️ 36.04 - Project - Algorithms
+ ☑️ 36.04 - Project - Algorithms - Grade: 🥇
  </br>
   
  <h2> Unit 37: Data Structure I: Arrays, Lists, Queues and Stacks </h2>
@@ -447,7 +447,7 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 37.04 - Stacks and Queues
  <div>
- ☑️ 37.03 - Project - TING - Trybe Is Not Google - Grade:
+ ☑️ 37.03 - Project - TING - Trybe Is Not Google - Grade: 🥇
  </br>
   
  <h2> Unit 38: Data Structure II: Arrays, Hashmaps, and Sets </h2>
@@ -456,5 +456,5 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 38.02 - Set
  <div>
- ☑️ 38.03 - Project - Restaurant Orders - Grade: 
+ ☑️ 38.03 - Project - Restaurant Orders - Grade: 🥇
  </br> 
