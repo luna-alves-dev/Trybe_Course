@@ -359,102 +359,102 @@ https://user-images.githubusercontent.com/102385238/173591623-f22badb7-b187-4301
  <div>
  ☑️ 29.01 - MongoDB - Introduction
  <div>
- 29.02 - Filter Operators
+ ☑️ 29.02 - Filter Operators
  <div>
- 29.03 - Query operators
+ ☑️ 29.03 - Query operators
  <div>
- 29.04 - Simple Updates
+ ☑️ 29.04 - Simple Updates
  <div>
- 29.05 - Complex Updates - Arrays
+ ☑️ 29.05 - Complex Updates - Arrays
  <div>
- 29.30 - Project - Commerce - Grade: 
+ ☑️29.30 - Project - Commerce - Grade: 
  </br>
   
  <h2> Unit 30: MongoDB with Node.js and OOP </h2>
  <br>
- 30.01 - MongoDB and MSC architecture
+ ☑️ 30.01 - MongoDB and MSC architecture
  <div>
- 30.02 - MongoDB and OOP
+ ☑️ 30.02 - MongoDB and OOP
  <div>
- 30.03 - Project - Car Shop - Grade:
+ ☑️ 30.03 - Project - Car Shop - Grade:
  </br>
  
  <h2> Unit 31: Project - Delivery App </h2>
  <br>
- 31.01 - Project - Delivery App
+ ☑️ 31.01 - Project - Delivery App
  </br>
 
  <h2> Unit 32: MasterClass - VPS, CI/CD </h2>
  <br>
- 32.01 - Day 1
+ ☑️ 32.01 - Day 1
  <div>
- 32.02 - Day 2
+ ☑️ 32.02 - Day 2
  </br>
 
  # Computer Science
 
  <h2> Unit 33: Introduction to Python </h2>
  <br>
- 33.01 - Introduction to - Computer Science
+ ☑️ 33.01 - Introduction to - Computer Science
  <div>
- 33.01 - Learning Python
+ ☑️ 33.01 - Learning Python
  <div>
- 33.02 - Data Input and Output
+ ☑️ 33.02 - Data Input and Output
  <div>
- 33.03 - Tests
+ ☑️ 33.03 - Tests
  <div>
- 33.04 - Project - Job Insights - Grade:
+ ☑️ 33.04 - Project - Job Insights - Grade:
  </br>
   
  <h2> Unit 34: Design Patterns </h2>
  <br> 
- 34.01 - Object-Oriented Programming Introduction
+ ☑️ 34.01 - Object-Oriented Programming Introduction
  <div>
- 34.02 - Patterns - Iterator, Adapter, Strategy
+ ☑️ 34.02 - Patterns - Iterator, Adapter, Strategy
  <div>
- 34.03 - Patterns - Decorator, Observer, Factory
+ ☑️ 34.03 - Patterns - Decorator, Observer, Factory
  <div>
- 34.04 - Project - Inventory Reports - Grade:
+ ☑️ 34.04 - Project - Inventory Reports - Grade:
  </br>
  
  <h2> Unit 35: Networks and Data Scraping </h2>
  <br>
- 35.01 - Network architecture, tools and security
+ ☑️ 35.01 - Network architecture, tools and security
  <div>
- 35.02 - Data Scraping
+ ☑️ 35.02 - Data Scraping
  <div>
- 35.03 - Project - Tech news
+ ☑️ 35.03 - Project - Tech news
  </br>
   
  <h2> Unit 36: Algorithms </h2>
  <br> 
- 36.01 - Algorithms complexity
+ ☑️ 36.01 - Algorithms complexity
  <div>
- 36.02 - Recursiveness and problem solving strategies
+ ☑️ 36.02 - Recursiveness and problem solving strategies
  <div>
- 36.03 - Sorting and search Algorithms
+ ☑️ 36.03 - Sorting and search Algorithms
  <div>
- 36.04 - Project - Algorithms
+ ☑️ 36.04 - Project - Algorithms
  </br>
   
  <h2> Unit 37: Data Structure I: Arrays, Lists, Queues and Stacks </h2>
  <br>
- 37.01 - Computer Architecture
+ ☑️ 37.01 - Computer Architecture
  <div>
- 37.02 - Arrays
+ ☑️ 37.02 - Arrays
  <div>
- 37.03 - Node and Linked Lists
+ ☑️ 37.03 - Node and Linked Lists
  <div>
- 37.04 - Stacks and Queues
+ ☑️ 37.04 - Stacks and Queues
  <div>
- 37.03 - Project - TING - Trybe Is Not Google - Grade:
+ ☑️ 37.03 - Project - TING - Trybe Is Not Google - Grade:
  </br>
   
  <h2> Unit 38: Data Structure II: Arrays, Hashmaps, and Sets </h2>
  <br>
- 38.01 - Hashmap and Dict
+ ☑️ 38.01 - Hashmap and Dict
  <div>
- 38.02 - Set
+ ☑️ 38.02 - Set
  <div>
- 38.03 - Project - Restaurant Orders - Grade: 
+ ☑️ 38.03 - Project - Restaurant Orders - Grade: 
  </br> 
